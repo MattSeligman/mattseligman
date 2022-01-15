@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Databases & Data Modeling, More Software Architecture, React JS, Ruby on Rails, and improving my optimization in HTML & CSS**
 
-- 💬 Ask me about **WordPress, Website Development, Domains, Hosting, DNS Management, Data Migration.**
+- 💬 Ask me about **WordPress, Website Development, Domains, Hosting, DNS Management, Data Migration, Search Engine Optimization, or Optimization Techniques**
 
 - 📫 How to reach me **matt@modelitup.com**
 
