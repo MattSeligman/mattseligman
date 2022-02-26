@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattseligman" alt="mattseligman" /></a> </p>
 
-- 🔭 I’m currently working on a [Bar Chart](https://github.com/MattSeligman/bar-chart)
+- 🔭 I’m currently training Kata's on [CodeWars](https://www.codewars.com/users/MattSeligman) before I begin an upcoming Bootcamp with Lighthouse Labs
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Databases & Data Modeling, More Software Architecture, React JS, Ruby on Rails, and improving my optimization in HTML & CSS**
 
