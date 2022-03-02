@@ -1,15 +1,20 @@
 <h1 align="center">Hello my name is Matt Seligman</h1>
 <h3 align="center">I'm a freelance website developer, skilled in WordPress, Content Creation, and Search Engine Optimization. My current objective is to keep learning & networking with new people. Everything I learn to better my creative, personal, & technical abilities expands my opportunities for the future.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattseligman&label=Profile%20views&color=0e75b6&style=flat" alt="mattseligman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattseligman" alt="mattseligman" /></a> </p>
-
 - 🔭 I’m currently training Kata's on [CodeWars](https://www.codewars.com/users/MattSeligman) before I begin an upcoming Bootcamp with Lighthouse Labs.
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Databases & Data Modeling, More Software Architecture, React JS, Ruby on Rails, and improving my optimization in HTML & CSS**
 
 - 💬 Ask me about **WordPress, Website Development, Domains, Hosting, DNS Management, Data Migration, Search Engine Optimization, or Optimization Techniques**
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattseligman" alt="mattseligman" /></a> 
+</p>
+
+<p align="left">
+  <a target="_blank" href="https://www.codewars.com/users/MattSeligman/"><img src="https://www.codewars.com/users/MattSeligman/badges/small" alt="codewars badge large" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mattseligman&label=Profile%20views&color=0e75b6&style=flat" alt="mattseligman" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
