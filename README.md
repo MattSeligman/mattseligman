@@ -1,7 +1,7 @@
 <h1 align="center">Hello my name is Matt Seligman</h1>
 <h3 align="center">I'm a freelance website developer, skilled in WordPress, Content Creation, and Search Engine Optimization. My current objective is to keep learning & networking with new people. Everything I learn to better my creative, personal, & technical abilities expands my opportunities for the future.</h3>
 
-- 🔭 I’m currently training Kata's on [CodeWars](https://www.codewars.com/users/MattSeligman) before I begin an upcoming Bootcamp with Lighthouse Labs.
+- 🔭 I’m currently training in the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp#curriculum) expanding my software development skills.
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Databases & Data Modeling, More Software Architecture, React JS, Ruby on Rails, and improving my optimization in HTML & CSS**
 
