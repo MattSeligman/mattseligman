@@ -9,6 +9,12 @@
 
 ---
 
+### Open Source Contributions
+
+- Identified and reported a [link rendering regression in Elementor 4.0.3](https://github.com/elementor/elementor/issues/35559) — anchor tags bled through parent containers, wrapping all subsequent page content in stray links. Fixed in 4.0.4.
+
+---
+
 <div align="center">
 
 <a href="https://www.codewars.com/users/MattSeligman/"><img src="https://www.codewars.com/users/MattSeligman/badges/small" alt="Codewars Badge" /></a> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=mattseligman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
