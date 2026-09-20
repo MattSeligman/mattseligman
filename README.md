@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattseligman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /> &nbsp;&nbsp; <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mattseligman&theme=tokyonight" alt="GitHub Streak" />
+<img height="180" src="./profile/top-langs.svg" alt="Top Languages" /> &nbsp;&nbsp; <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mattseligman&theme=tokyonight" alt="GitHub Streak" />
 </div>
