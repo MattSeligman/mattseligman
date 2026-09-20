@@ -1,7 +1,7 @@
 <h1 align="center">Hello my name is Matt Seligman</h1>
 <h3 align="center">I'm a freelance website developer, skilled in WordPress, Content Creation, and Search Engine Optimization. My current objective is to keep learning & networking with new people. Everything I learn to better my creative, personal, & technical abilities expands my opportunities for the future.</h3>
 
-- 🔭 I recently completed the Full Stack Developer course at [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp#curriculum) expanding my software development skills.
+- 🔭 I recently completed the Full Stack Developer course at [Lighthouse Labs Web Development Bootcamp](https://web.archive.org/web/20250729065131/https://www.lighthouselabs.ca/en/web-development) expanding my software development skills.
 
 - 🌱 I'm currently working on external WordPress projects before returning to expand further with **JavaScript, Node.js, Databases & Data Modeling, More Software Architecture, React JS, Ruby on Rails, and HTML & SASS/CSS**
 
