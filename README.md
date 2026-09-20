@@ -11,7 +11,7 @@
 
 ### Open Source Contributions
 
-- Identified and reported a [link rendering regression in Elementor 4.0.3](https://github.com/elementor/elementor/issues/35559) — anchor tags bled through parent containers, wrapping all subsequent page content in stray links. Fixed in 4.0.4.
+- Identified and reported a [link rendering regression in Elementor 4.0.3](https://github.com/elementor/elementor/issues/35559) — anchor tags bled through parent containers, wrapping all subsequent page content in stray links. [Fixed in 4.0.4](https://github.com/elementor/elementor/blob/8de794329a3b30e8f2e1bab0c305ad14172cb036/changelog.txt#L109-L112).
 
 ---
 
