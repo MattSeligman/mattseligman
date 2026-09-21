@@ -24,6 +24,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      # GitHub caps README images at max-height 180px with height:auto, so the
+      # card's natural size must match the streak card (195px) to line up.
+      - name: Scale card to match streak card height
+        run: |
+          sed -i -E '1,/>/{s/width="300"/width="355"/;s/height="165"/height="195"/}' profile/top-langs.svg
+          grep -q 'height="195"' profile/top-langs.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
